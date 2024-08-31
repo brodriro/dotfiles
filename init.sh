@@ -37,6 +37,9 @@ brew install fzf
 ## install bat
 brew install bat
 
+## install lua
+brew install lua
+
 ## install neovim
 brew install neovim
 
